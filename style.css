@@ -1,0 +1,64 @@
+#main {
+  background-color: rgba(128, 128, 128, 0.2);
+}
+#title {
+  text-align: center;
+  font-size: x-large;
+}
+#title p {
+  color: gray;
+  font-size: large;
+}
+#img-div {
+  border: 1px solid white;
+  background: white;
+  margin-right: 15px;
+  margin-left: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#image {
+  width: 98%;
+}
+#img-caption {
+  color: gray;
+  font-size: 18px;
+  text-align: center;
+  line-height: 25px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+#tribute-info h3 {
+  text-align: center;
+  margin-top: 45px;
+  margin-bottom: 45px;
+}
+#tribute-info ul li {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: black;
+  font-size: 1.1rem;
+  line-height: 1.5rem;
+}
+.before-end {
+  padding: 15px;
+}
+.before-end em {
+  font-size: large;
+  line-height: 1.5rem;
+}
+.end {
+  padding-bottom: 20px;
+  padding-left: 15px;
+  font-size: medium;
+  color: gray;
+}
+#last {
+  text-align: center;
+  font-size: 1.5rem;
+  line-height: 1.8rem;
+  padding: 15px;
+  padding-bottom: 40px;
+}
